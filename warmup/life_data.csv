@@ -1,0 +1,1016 @@
+﻿"LOCATION","Country","INDICATOR","Indicator","MEASURE","Measure","INEQUALITY","Inequality","Unit Code","Unit","PowerCode Code","PowerCode","Reference Period Code","Reference Period","Value","Flag Codes","Flags"
+"AUS","Australia","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,33138,,
+"AUT","Austria","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,31667,,
+"BEL","Belgium","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,28700,,
+"CAN","Canada","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,30474,,
+"CZE","Czech Republic","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,18953,,
+"DNK","Denmark","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,26945,,
+"FIN","Finland","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,28238,,
+"FRA","France","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,29759,,
+"DEU","Germany","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,31925,,
+"GRC","Greece","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,18099,,
+"HUN","Hungary","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,15614,,
+"ISL","Iceland","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,27918,"E","Estimated value"
+"IRL","Ireland","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,22969,,
+"ITA","Italy","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,25004,,
+"JPN","Japan","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,27323,,
+"KOR","Korea","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,19372,,
+"LUX","Luxembourg","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,40914,"E","Estimated value"
+"MEX","Mexico","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,12806,,
+"NLD","Netherlands","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,27759,,
+"NZL","New Zealand","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,23213,"E","Estimated value"
+"NOR","Norway","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,33393,,
+"POL","Poland","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,17820,,
+"PRT","Portugal","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,19882,,
+"SVK","Slovak Republic","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,18534,,
+"ESP","Spain","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,22007,,
+"SWE","Sweden","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,28859,,
+"CHE","Switzerland","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,35952,,
+"TUR","Turkey","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,13471,"E","Estimated value"
+"GBR","United Kingdom","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,26687,,
+"USA","United States","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,41071,,
+"BRA","Brazil","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,11487,"E","Estimated value"
+"CHL","Chile","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,15094,"E","Estimated value"
+"EST","Estonia","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,16565,,
+"ISR","Israel","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,22116,"E","Estimated value"
+"RUS","Russia","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,17006,,
+"SVN","Slovenia","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,19130,,
+"OECD","OECD - Total","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,29016,,
+"AUS","Australia","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,33138,"E","Estimated value"
+"AUT","Austria","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,31667,"E","Estimated value"
+"BEL","Belgium","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,28700,"E","Estimated value"
+"CAN","Canada","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,30474,"E","Estimated value"
+"CZE","Czech Republic","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,18953,"E","Estimated value"
+"DNK","Denmark","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,26945,"E","Estimated value"
+"FIN","Finland","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,28238,"E","Estimated value"
+"FRA","France","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,29759,"E","Estimated value"
+"DEU","Germany","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,31925,"E","Estimated value"
+"GRC","Greece","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,18099,"E","Estimated value"
+"HUN","Hungary","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,15614,"E","Estimated value"
+"ISL","Iceland","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,27918,"E","Estimated value"
+"IRL","Ireland","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,22969,"E","Estimated value"
+"ITA","Italy","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,25004,"E","Estimated value"
+"JPN","Japan","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,27323,"E","Estimated value"
+"KOR","Korea","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,19372,"E","Estimated value"
+"LUX","Luxembourg","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,40914,"E","Estimated value"
+"MEX","Mexico","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,12806,"E","Estimated value"
+"NLD","Netherlands","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,27759,"E","Estimated value"
+"NZL","New Zealand","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,23213,"E","Estimated value"
+"NOR","Norway","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,33393,"E","Estimated value"
+"POL","Poland","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,17820,"E","Estimated value"
+"PRT","Portugal","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,19882,"E","Estimated value"
+"SVK","Slovak Republic","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,18534,"E","Estimated value"
+"ESP","Spain","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,22007,"E","Estimated value"
+"SWE","Sweden","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,28859,"E","Estimated value"
+"CHE","Switzerland","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,35952,"E","Estimated value"
+"TUR","Turkey","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,13471,"E","Estimated value"
+"GBR","United Kingdom","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,26687,"E","Estimated value"
+"USA","United States","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,41071,"E","Estimated value"
+"BRA","Brazil","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,11487,"E","Estimated value"
+"CHL","Chile","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,15094,"E","Estimated value"
+"EST","Estonia","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,16565,"E","Estimated value"
+"ISR","Israel","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,22116,"E","Estimated value"
+"RUS","Russia","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,17006,"E","Estimated value"
+"SVN","Slovenia","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,19130,"E","Estimated value"
+"AUS","Australia","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,33138,"E","Estimated value"
+"AUT","Austria","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,31667,"E","Estimated value"
+"BEL","Belgium","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,28700,"E","Estimated value"
+"CAN","Canada","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,30474,"E","Estimated value"
+"CZE","Czech Republic","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,18953,"E","Estimated value"
+"DNK","Denmark","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,26945,"E","Estimated value"
+"FIN","Finland","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,28238,"E","Estimated value"
+"FRA","France","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,29759,"E","Estimated value"
+"DEU","Germany","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,31925,"E","Estimated value"
+"GRC","Greece","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,18099,"E","Estimated value"
+"HUN","Hungary","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,15614,"E","Estimated value"
+"ISL","Iceland","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,27918,"E","Estimated value"
+"IRL","Ireland","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,22969,"E","Estimated value"
+"ITA","Italy","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,25004,"E","Estimated value"
+"JPN","Japan","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,27323,"E","Estimated value"
+"KOR","Korea","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,19372,"E","Estimated value"
+"LUX","Luxembourg","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,40914,"E","Estimated value"
+"MEX","Mexico","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,12806,"E","Estimated value"
+"NLD","Netherlands","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,27759,"E","Estimated value"
+"NZL","New Zealand","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,23213,"E","Estimated value"
+"NOR","Norway","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,33393,"E","Estimated value"
+"POL","Poland","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,17820,"E","Estimated value"
+"PRT","Portugal","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,19882,"E","Estimated value"
+"SVK","Slovak Republic","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,18534,"E","Estimated value"
+"ESP","Spain","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,22007,"E","Estimated value"
+"SWE","Sweden","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,28859,"E","Estimated value"
+"CHE","Switzerland","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,35952,"E","Estimated value"
+"TUR","Turkey","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,13471,"E","Estimated value"
+"GBR","United Kingdom","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,26687,"E","Estimated value"
+"USA","United States","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,41071,"E","Estimated value"
+"BRA","Brazil","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,11487,"E","Estimated value"
+"CHL","Chile","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,15094,"E","Estimated value"
+"EST","Estonia","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,16565,"E","Estimated value"
+"ISR","Israel","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,22116,"E","Estimated value"
+"RUS","Russia","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,17006,"E","Estimated value"
+"SVN","Slovenia","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,19130,"E","Estimated value"
+"AUS","Australia","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,65701,"E","Estimated value"
+"AUT","Austria","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,58141,"E","Estimated value"
+"BEL","Belgium","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,50812,"E","Estimated value"
+"CAN","Canada","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,59677,"E","Estimated value"
+"CZE","Czech Republic","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,33683,"E","Estimated value"
+"DNK","Denmark","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,46768,"E","Estimated value"
+"FIN","Finland","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,50145,"E","Estimated value"
+"FRA","France","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,59136,"E","Estimated value"
+"DEU","Germany","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,60859,"E","Estimated value"
+"GRC","Greece","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,35906,"E","Estimated value"
+"HUN","Hungary","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,29026,"E","Estimated value"
+"ISL","Iceland","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,48478,"E","Estimated value"
+"IRL","Ireland","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,43775,"E","Estimated value"
+"ITA","Italy","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,49147,"E","Estimated value"
+"JPN","Japan","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,54666,"E","Estimated value"
+"KOR","Korea","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,38526,"E","Estimated value"
+"LUX","Luxembourg","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,74593,"E","Estimated value"
+"MEX","Mexico","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,33884,"E","Estimated value"
+"NLD","Netherlands","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,51094,"E","Estimated value"
+"NZL","New Zealand","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,46507,"E","Estimated value"
+"NOR","Norway","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,57284,"E","Estimated value"
+"POL","Poland","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,34208,"E","Estimated value"
+"PRT","Portugal","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,41556,"E","Estimated value"
+"SVK","Slovak Republic","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,32509,"E","Estimated value"
+"ESP","Spain","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,44510,"E","Estimated value"
+"SWE","Sweden","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,51854,"E","Estimated value"
+"CHE","Switzerland","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,67283,"E","Estimated value"
+"TUR","Turkey","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,31919,"E","Estimated value"
+"GBR","United Kingdom","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,56289,"E","Estimated value"
+"USA","United States","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,91008,"E","Estimated value"
+"BRA","Brazil","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,31906,"E","Estimated value"
+"CHL","Chile","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,42579,"E","Estimated value"
+"EST","Estonia","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,32571,"E","Estimated value"
+"ISR","Israel","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,46531,"E","Estimated value"
+"RUS","Russia","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,39470,"E","Estimated value"
+"SVN","Slovenia","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,32297,"E","Estimated value"
+"OECD","OECD - Total","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,60642,"E","Estimated value"
+"AUS","Australia","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,12104,"E","Estimated value"
+"AUT","Austria","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,13349,"E","Estimated value"
+"BEL","Belgium","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,12624,"E","Estimated value"
+"CAN","Canada","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,11536,"E","Estimated value"
+"CZE","Czech Republic","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,9221,"E","Estimated value"
+"DNK","Denmark","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,13024,"E","Estimated value"
+"FIN","Finland","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,13400,"E","Estimated value"
+"FRA","France","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,12675,"E","Estimated value"
+"DEU","Germany","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,13733,"E","Estimated value"
+"GRC","Greece","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,5710,"E","Estimated value"
+"HUN","Hungary","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,6405,"E","Estimated value"
+"ISL","Iceland","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,13532,"E","Estimated value"
+"IRL","Ireland","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,9368,"E","Estimated value"
+"ITA","Italy","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,8845,"E","Estimated value"
+"JPN","Japan","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,8834,"E","Estimated value"
+"KOR","Korea","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,6955,"E","Estimated value"
+"LUX","Luxembourg","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,18427,"E","Estimated value"
+"MEX","Mexico","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,2480,"E","Estimated value"
+"NLD","Netherlands","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,12331,"E","Estimated value"
+"NZL","New Zealand","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,8965,"E","Estimated value"
+"NOR","Norway","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,15375,"E","Estimated value"
+"POL","Poland","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,7074,"E","Estimated value"
+"PRT","Portugal","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,7180,"E","Estimated value"
+"SVK","Slovak Republic","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,8367,"E","Estimated value"
+"ESP","Spain","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,6648,"E","Estimated value"
+"SWE","Sweden","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,12510,"E","Estimated value"
+"CHE","Switzerland","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,15209,"E","Estimated value"
+"TUR","Turkey","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,3799,"E","Estimated value"
+"GBR","United Kingdom","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,10066,"E","Estimated value"
+"USA","United States","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,11117,"E","Estimated value"
+"BRA","Brazil","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,2347,"E","Estimated value"
+"CHL","Chile","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,3270,"E","Estimated value"
+"EST","Estonia","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,5984,"E","Estimated value"
+"ISR","Israel","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,6263,"E","Estimated value"
+"RUS","Russia","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,5201,"E","Estimated value"
+"SVN","Slovenia","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,8943,"E","Estimated value"
+"OECD","OECD - Total","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,9553,"E","Estimated value"
+"AUS","Australia","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,48836,,
+"AUT","Austria","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,55623,,
+"BEL","Belgium","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,89057,,
+"CAN","Canada","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,75775,,
+"CZE","Czech Republic","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,20170,,
+"DNK","Denmark","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,54839,,
+"FIN","Finland","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,24482,,
+"FRA","France","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,53851,,
+"DEU","Germany","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,49822,,
+"GRC","Greece","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,17568,,
+"HUN","Hungary","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,17774,,
+"ISL","Iceland","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,54275,"E","Estimated value"
+"IRL","Ireland","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,31861,,
+"ITA","Italy","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,56833,,
+"JPN","Japan","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,92818,,
+"KOR","Korea","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,30852,"E","Estimated value"
+"LUX","Luxembourg","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,64500,,
+"MEX","Mexico","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,9856,"E","Estimated value"
+"NLD","Netherlands","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,71251,,
+"NZL","New Zealand","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,81271,"E","Estimated value"
+"NOR","Norway","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,16930,,
+"POL","Poland","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,12902,,
+"PRT","Portugal","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,29563,,
+"SVK","Slovak Republic","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,8896,,
+"ESP","Spain","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,29819,,
+"SWE","Sweden","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,69899,,
+"CHE","Switzerland","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,120265,,
+"TUR","Turkey","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,3886,,
+"GBR","United Kingdom","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,69927,,
+"USA","United States","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,163268,,
+"BRA","Brazil","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,7566,"E","Estimated value"
+"CHL","Chile","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,18172,,
+"EST","Estonia","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,15728,,
+"ISR","Israel","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,50051,,
+"RUS","Russia","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,3687,"E","Estimated value"
+"SVN","Slovenia","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,17271,,
+"OECD","OECD - Total","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,84547,,
+"AUS","Australia","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,48836,"E","Estimated value"
+"AUT","Austria","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,55623,"E","Estimated value"
+"BEL","Belgium","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,89057,"E","Estimated value"
+"CAN","Canada","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,75775,"E","Estimated value"
+"CZE","Czech Republic","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,20170,"E","Estimated value"
+"DNK","Denmark","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,54839,"E","Estimated value"
+"FIN","Finland","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,24482,"E","Estimated value"
+"FRA","France","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,53851,"E","Estimated value"
+"DEU","Germany","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,49822,"E","Estimated value"
+"GRC","Greece","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,17568,"E","Estimated value"
+"HUN","Hungary","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,17774,"E","Estimated value"
+"ISL","Iceland","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,54275,"E","Estimated value"
+"IRL","Ireland","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,31861,"E","Estimated value"
+"ITA","Italy","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,56833,"E","Estimated value"
+"JPN","Japan","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,92818,"E","Estimated value"
+"KOR","Korea","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,30852,"E","Estimated value"
+"LUX","Luxembourg","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,64500,"E","Estimated value"
+"MEX","Mexico","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,9856,"E","Estimated value"
+"NLD","Netherlands","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,71251,"E","Estimated value"
+"NZL","New Zealand","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,81271,"E","Estimated value"
+"NOR","Norway","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,16930,"E","Estimated value"
+"POL","Poland","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,12902,"E","Estimated value"
+"PRT","Portugal","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,29563,"E","Estimated value"
+"SVK","Slovak Republic","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,8896,"E","Estimated value"
+"ESP","Spain","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,29819,"E","Estimated value"
+"SWE","Sweden","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,69899,"E","Estimated value"
+"CHE","Switzerland","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,120265,"E","Estimated value"
+"TUR","Turkey","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,3886,"E","Estimated value"
+"GBR","United Kingdom","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,69927,"E","Estimated value"
+"USA","United States","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,163268,"E","Estimated value"
+"BRA","Brazil","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,7566,"E","Estimated value"
+"CHL","Chile","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,18172,"E","Estimated value"
+"EST","Estonia","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,15728,"E","Estimated value"
+"ISR","Israel","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,50051,"E","Estimated value"
+"RUS","Russia","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,3687,"E","Estimated value"
+"SVN","Slovenia","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,17271,"E","Estimated value"
+"AUS","Australia","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,48836,"E","Estimated value"
+"AUT","Austria","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,55623,"E","Estimated value"
+"BEL","Belgium","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,89057,"E","Estimated value"
+"CAN","Canada","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,75775,"E","Estimated value"
+"CZE","Czech Republic","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,20170,"E","Estimated value"
+"DNK","Denmark","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,54839,"E","Estimated value"
+"FIN","Finland","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,24482,"E","Estimated value"
+"FRA","France","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,53851,"E","Estimated value"
+"DEU","Germany","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,49822,"E","Estimated value"
+"GRC","Greece","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,17568,"E","Estimated value"
+"HUN","Hungary","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,17774,"E","Estimated value"
+"ISL","Iceland","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,54275,"E","Estimated value"
+"IRL","Ireland","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,31861,"E","Estimated value"
+"ITA","Italy","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,56833,"E","Estimated value"
+"JPN","Japan","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,92818,"E","Estimated value"
+"KOR","Korea","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,30852,"E","Estimated value"
+"LUX","Luxembourg","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,64500,"E","Estimated value"
+"MEX","Mexico","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,9856,"E","Estimated value"
+"NLD","Netherlands","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,71251,"E","Estimated value"
+"NZL","New Zealand","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,81271,"E","Estimated value"
+"NOR","Norway","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,16930,"E","Estimated value"
+"POL","Poland","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,12902,"E","Estimated value"
+"PRT","Portugal","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,29563,"E","Estimated value"
+"SVK","Slovak Republic","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,8896,"E","Estimated value"
+"ESP","Spain","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,29819,"E","Estimated value"
+"SWE","Sweden","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,69899,"E","Estimated value"
+"CHE","Switzerland","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,120265,"E","Estimated value"
+"TUR","Turkey","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,3886,"E","Estimated value"
+"GBR","United Kingdom","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,69927,"E","Estimated value"
+"USA","United States","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,163268,"E","Estimated value"
+"BRA","Brazil","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,7566,"E","Estimated value"
+"CHL","Chile","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,18172,"E","Estimated value"
+"EST","Estonia","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,15728,"E","Estimated value"
+"ISR","Israel","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,50051,"E","Estimated value"
+"RUS","Russia","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,3687,"E","Estimated value"
+"SVN","Slovenia","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,17271,"E","Estimated value"
+"AUS","Australia","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,72,,
+"AUT","Austria","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,71,,
+"BEL","Belgium","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,62,,
+"CAN","Canada","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,72,,
+"CZE","Czech Republic","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,69,,
+"DNK","Denmark","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,73,,
+"FIN","Finland","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,69,,
+"FRA","France","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,64,,
+"DEU","Germany","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,74,,
+"GRC","Greece","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,49,,
+"HUN","Hungary","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,62,,
+"ISL","Iceland","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,82,,
+"IRL","Ireland","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,61,,
+"ITA","Italy","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,57,,
+"JPN","Japan","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,73,,
+"KOR","Korea","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,65,,
+"LUX","Luxembourg","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,67,,
+"MEX","Mexico","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,60,,
+"NLD","Netherlands","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,73,,
+"NZL","New Zealand","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,74,,
+"NOR","Norway","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,75,,
+"POL","Poland","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,62,,
+"PRT","Portugal","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,63,,
+"SVK","Slovak Republic","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,61,,
+"ESP","Spain","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,57,,
+"SWE","Sweden","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,75,,
+"CHE","Switzerland","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,80,,
+"TUR","Turkey","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,50,,
+"GBR","United Kingdom","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,73,,
+"USA","United States","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,68,,
+"BRA","Brazil","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,67,,
+"CHL","Chile","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,62,,
+"EST","Estonia","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,70,,
+"ISR","Israel","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,68,,
+"RUS","Russia","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,69,,
+"SVN","Slovenia","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,64,,
+"OECD","OECD - Total","JE_EMPL","Employment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,66,,
+"AUS","Australia","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,77,,
+"AUT","Austria","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,75,,
+"BEL","Belgium","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,66,,
+"CAN","Canada","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,75,,
+"CZE","Czech Republic","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,77,,
+"DNK","Denmark","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,76,,
+"FIN","Finland","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,70,,
+"FRA","France","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,68,,
+"DEU","Germany","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,78,,
+"GRC","Greece","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,58,,
+"HUN","Hungary","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,68,,
+"ISL","Iceland","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,84,,
+"IRL","Ireland","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,66,,
+"ITA","Italy","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,66,,
+"JPN","Japan","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,82,,
+"KOR","Korea","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,76,,
+"LUX","Luxembourg","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,73,,
+"MEX","Mexico","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,78,,
+"NLD","Netherlands","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,78,,
+"NZL","New Zealand","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,80,,
+"NOR","Norway","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,77,,
+"POL","Poland","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,68,,
+"PRT","Portugal","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,66,,
+"SVK","Slovak Republic","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,68,,
+"ESP","Spain","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,62,,
+"SWE","Sweden","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,77,,
+"CHE","Switzerland","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,84,,
+"TUR","Turkey","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,70,,
+"GBR","United Kingdom","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,78,,
+"USA","United States","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,73,,
+"BRA","Brazil","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,79,,
+"CHL","Chile","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,73,,
+"EST","Estonia","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,73,,
+"ISR","Israel","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,72,,
+"RUS","Russia","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,74,,
+"SVN","Slovenia","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,68,,
+"OECD","OECD - Total","JE_EMPL","Employment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,74,,
+"AUS","Australia","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,66,,
+"AUT","Austria","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,67,,
+"BEL","Belgium","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,58,,
+"CAN","Canada","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,69,,
+"CZE","Czech Republic","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,61,,
+"DNK","Denmark","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,70,,
+"FIN","Finland","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,68,,
+"FRA","France","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,61,,
+"DEU","Germany","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,69,,
+"GRC","Greece","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,41,,
+"HUN","Hungary","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,56,,
+"ISL","Iceland","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,80,,
+"IRL","Ireland","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,56,,
+"ITA","Italy","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,47,,
+"JPN","Japan","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,64,,
+"KOR","Korea","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,55,,
+"LUX","Luxembourg","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,61,,
+"MEX","Mexico","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,44,,
+"NLD","Netherlands","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,68,,
+"NZL","New Zealand","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,69,,
+"NOR","Norway","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,73,,
+"POL","Poland","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,55,,
+"PRT","Portugal","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,60,,
+"SVK","Slovak Republic","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,54,,
+"ESP","Spain","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,52,,
+"SWE","Sweden","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,73,,
+"CHE","Switzerland","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,75,,
+"TUR","Turkey","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,30,,
+"GBR","United Kingdom","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,68,,
+"USA","United States","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,63,,
+"BRA","Brazil","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,56,,
+"CHL","Chile","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,52,,
+"EST","Estonia","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,66,,
+"ISR","Israel","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,64,,
+"RUS","Russia","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,65,,
+"SVN","Slovenia","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,60,,
+"OECD","OECD - Total","JE_EMPL","Employment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,58,,
+"AUS","Australia","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,83,"E","Estimated value"
+"AUT","Austria","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,86,"E","Estimated value"
+"BEL","Belgium","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,81,"E","Estimated value"
+"CAN","Canada","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,81,"E","Estimated value"
+"CZE","Czech Republic","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,84,"E","Estimated value"
+"DNK","Denmark","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,86,"E","Estimated value"
+"FIN","Finland","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,84,"E","Estimated value"
+"FRA","France","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,82,"E","Estimated value"
+"DEU","Germany","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,88,"E","Estimated value"
+"GRC","Greece","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,67,"E","Estimated value"
+"HUN","Hungary","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,84,"E","Estimated value"
+"ISL","Iceland","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,91,"E","Estimated value"
+"IRL","Ireland","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,81,"E","Estimated value"
+"ITA","Italy","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,76,"E","Estimated value"
+"JPN","Japan","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,82,"E","Estimated value"
+"KOR","Korea","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,78,"E","Estimated value"
+"LUX","Luxembourg","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,84,"E","Estimated value"
+"MEX","Mexico","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,70,"E","Estimated value"
+"NLD","Netherlands","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,86,"E","Estimated value"
+"NZL","New Zealand","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,87,"E","Estimated value"
+"NOR","Norway","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,88,"E","Estimated value"
+"POL","Poland","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,85,"E","Estimated value"
+"PRT","Portugal","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,79,"E","Estimated value"
+"SVK","Slovak Republic","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,76,"E","Estimated value"
+"ESP","Spain","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,57,"E","Estimated value"
+"SWE","Sweden","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,88,"E","Estimated value"
+"CHE","Switzerland","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,89,"E","Estimated value"
+"TUR","Turkey","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,74,"E","Estimated value"
+"GBR","United Kingdom","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,87,"E","Estimated value"
+"USA","United States","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,81,"E","Estimated value"
+"BRA","Brazil","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,85,"E","Estimated value"
+"CHL","Chile","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,85,"E","Estimated value"
+"EST","Estonia","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,84,"E","Estimated value"
+"ISR","Israel","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,86,"E","Estimated value"
+"RUS","Russia","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,83,"E","Estimated value"
+"SVN","Slovenia","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,83,"E","Estimated value"
+"OECD","OECD - Total","JE_EMPL","Employment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,81,"E","Estimated value"
+"AUS","Australia","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,55,"E","Estimated value"
+"AUT","Austria","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,48,"E","Estimated value"
+"BEL","Belgium","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,38,"E","Estimated value"
+"CAN","Canada","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,47,"E","Estimated value"
+"CZE","Czech Republic","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,22,"E","Estimated value"
+"DNK","Denmark","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,54,"E","Estimated value"
+"FIN","Finland","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,40,"E","Estimated value"
+"FRA","France","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,43,"E","Estimated value"
+"DEU","Germany","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,47,"E","Estimated value"
+"GRC","Greece","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,37,"E","Estimated value"
+"HUN","Hungary","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,29,"E","Estimated value"
+"ISL","Iceland","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,72,"E","Estimated value"
+"IRL","Ireland","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,36,"E","Estimated value"
+"ITA","Italy","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,42,"E","Estimated value"
+"JPN","Japan","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,71,"E","Estimated value"
+"KOR","Korea","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,45,"E","Estimated value"
+"LUX","Luxembourg","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,44,"E","Estimated value"
+"MEX","Mexico","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,58,"E","Estimated value"
+"NLD","Netherlands","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,57,"E","Estimated value"
+"NZL","New Zealand","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,60,"E","Estimated value"
+"NOR","Norway","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,52,"E","Estimated value"
+"POL","Poland","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,23,"E","Estimated value"
+"PRT","Portugal","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,57,"E","Estimated value"
+"SVK","Slovak Republic","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,16,"E","Estimated value"
+"ESP","Spain","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,36,"E","Estimated value"
+"SWE","Sweden","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,41,"E","Estimated value"
+"CHE","Switzerland","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,45,"E","Estimated value"
+"TUR","Turkey","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,46,"E","Estimated value"
+"GBR","United Kingdom","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,59,"E","Estimated value"
+"USA","United States","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,35,"E","Estimated value"
+"BRA","Brazil","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,59,"E","Estimated value"
+"CHL","Chile","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,48,"E","Estimated value"
+"EST","Estonia","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,36,"E","Estimated value"
+"ISR","Israel","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,33,"E","Estimated value"
+"RUS","Russia","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,28,"E","Estimated value"
+"SVN","Slovenia","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,34,"E","Estimated value"
+"OECD","OECD - Total","JE_EMPL","Employment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,47,"E","Estimated value"
+"AUS","Australia","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,1.32,,
+"AUT","Austria","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,1.53,,
+"BEL","Belgium","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,4.26,,
+"CAN","Canada","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,0.89,,
+"CZE","Czech Republic","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,2.72,,
+"DNK","Denmark","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,1.66,,
+"FIN","Finland","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,1.97,,
+"FRA","France","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,4.21,,
+"DEU","Germany","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,2.21,,
+"GRC","Greece","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,19.47,,
+"HUN","Hungary","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,3.78,,
+"ISL","Iceland","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,0.67,,
+"IRL","Ireland","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,6.98,,
+"ITA","Italy","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,7.79,,
+"JPN","Japan","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,1.36,,
+"KOR","Korea","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,0.01,,
+"LUX","Luxembourg","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,1.6,,
+"MEX","Mexico","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,0.06,,
+"NLD","Netherlands","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,2.98,,
+"NZL","New Zealand","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,0.78,,
+"NOR","Norway","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,0.41,,
+"POL","Poland","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,3.26,,
+"PRT","Portugal","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,8.28,,
+"SVK","Slovak Republic","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,8.8,,
+"ESP","Spain","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,12.92,,
+"SWE","Sweden","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,1.33,,
+"CHE","Switzerland","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,1.71,,
+"TUR","Turkey","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,2.04,,
+"GBR","United Kingdom","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,2.22,,
+"USA","United States","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,1.42,,
+"BRA","Brazil","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,0.81,"E","Estimated value"
+"CHL","Chile","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,1.67,"E","Estimated value"
+"EST","Estonia","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,3.32,,
+"ISR","Israel","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,0.63,,
+"RUS","Russia","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,1.45,,
+"SVN","Slovenia","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,5.27,,
+"OECD","OECD - Total","JE_LTUR","Long-term unemployment rate","L","Value","TOT","Total","PC","Percentage","0","Units",,,2.58,,
+"AUS","Australia","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,1.36,,
+"AUT","Austria","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,1.65,,
+"BEL","Belgium","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,4.68,,
+"CAN","Canada","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,0.97,,
+"CZE","Czech Republic","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,2.29,,
+"DNK","Denmark","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,1.65,,
+"FIN","Finland","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,2.29,,
+"FRA","France","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,4.46,,
+"DEU","Germany","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,2.44,,
+"GRC","Greece","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,17.18,,
+"HUN","Hungary","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,3.77,,
+"ISL","Iceland","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,0.68,,
+"IRL","Ireland","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,8.82,,
+"ITA","Italy","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,7.15,,
+"JPN","Japan","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,1.8,,
+"KOR","Korea","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,0.02,,
+"LUX","Luxembourg","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,1.58,,
+"MEX","Mexico","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,0.07,,
+"NLD","Netherlands","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,2.9,,
+"NZL","New Zealand","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,0.75,,
+"NOR","Norway","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,0.44,,
+"POL","Poland","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,3.08,,
+"PRT","Portugal","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,8.19,,
+"SVK","Slovak Republic","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,8.95,,
+"ESP","Spain","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,12.27,,
+"SWE","Sweden","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,1.46,,
+"CHE","Switzerland","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,1.56,,
+"TUR","Turkey","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,1.55,,
+"GBR","United Kingdom","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,2.6,,
+"USA","United States","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,1.48,,
+"BRA","Brazil","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,0.87,"E","Estimated value"
+"CHL","Chile","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,1.74,"E","Estimated value"
+"EST","Estonia","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,3.91,,
+"ISR","Israel","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,0.7,,
+"RUS","Russia","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,1.53,,
+"SVN","Slovenia","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,4.91,,
+"OECD","OECD - Total","JE_LTUR","Long-term unemployment rate","L","Value","MN","Men","PC","Percentage","0","Units",,,2.56,,
+"AUS","Australia","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,1.279560488,,
+"AUT","Austria","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,1.395480357,,
+"BEL","Belgium","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,3.760515078,,
+"CAN","Canada","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,0.804545414,,
+"CZE","Czech Republic","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,3.265213597,,
+"DNK","Denmark","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,1.663621896,,
+"FIN","Finland","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,1.618660374,,
+"FRA","France","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,3.936677738,,
+"DEU","Germany","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,1.936714851,,
+"GRC","Greece","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,22.38179618,,
+"HUN","Hungary","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,3.793474696,,
+"ISL","Iceland","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,0.666639483,,
+"IRL","Ireland","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,4.737514736,,
+"ITA","Italy","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,8.653699735,,
+"JPN","Japan","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,0.787413567,,
+"KOR","Korea","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,0.006482082,,
+"LUX","Luxembourg","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,1.627289127,,
+"MEX","Mexico","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,0.051383596,,
+"NLD","Netherlands","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,3.060369105,,
+"NZL","New Zealand","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,0.826691225,,
+"NOR","Norway","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,0.381069821,,
+"POL","Poland","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,3.468410545,,
+"PRT","Portugal","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,8.377924239,,
+"SVK","Slovak Republic","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,8.612632244,,
+"ESP","Spain","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,13.66529673,,
+"SWE","Sweden","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,1.19336234,,
+"CHE","Switzerland","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,1.891519205,,
+"TUR","Turkey","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,3.179390221,,
+"GBR","United Kingdom","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,1.790465907,,
+"USA","United States","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,1.347225455,,
+"BRA","Brazil","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,0.717256923,"E","Estimated value"
+"CHL","Chile","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,1.547788567,"E","Estimated value"
+"EST","Estonia","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,2.682845923,,
+"ISR","Israel","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,0.545428672,,
+"RUS","Russia","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,1.364823552,,
+"SVN","Slovenia","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,5.687618138,,
+"OECD","OECD - Total","JE_LTUR","Long-term unemployment rate","L","Value","WMN","Women","PC","Percentage","0","Units",,,2.606068311,,
+"AUS","Australia","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,0.74,"E","Estimated value"
+"AUT","Austria","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,0.85,"E","Estimated value"
+"BEL","Belgium","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,2.5,"E","Estimated value"
+"CAN","Canada","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,0.63,"E","Estimated value"
+"CZE","Czech Republic","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,1.1,"E","Estimated value"
+"DNK","Denmark","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,1.06,"E","Estimated value"
+"FIN","Finland","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,1.06,"E","Estimated value"
+"FRA","France","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,2.53,"E","Estimated value"
+"DEU","Germany","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,1.04,"E","Estimated value"
+"GRC","Greece","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,14.63,"E","Estimated value"
+"HUN","Hungary","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,1.52,"E","Estimated value"
+"ISL","Iceland","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,0.46,"E","Estimated value"
+"IRL","Ireland","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,3.68,"E","Estimated value"
+"ITA","Italy","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,4.76,"E","Estimated value"
+"JPN","Japan","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,1.07,"E","Estimated value"
+"KOR","Korea","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,0.01,"E","Estimated value"
+"LUX","Luxembourg","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,0.99,"E","Estimated value"
+"MEX","Mexico","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,0.08,"E","Estimated value"
+"NLD","Netherlands","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,1.7,"E","Estimated value"
+"NZL","New Zealand","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,0.52,"E","Estimated value"
+"NOR","Norway","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,0.21,"E","Estimated value"
+"POL","Poland","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,1.81,"E","Estimated value"
+"PRT","Portugal","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,6.69,"E","Estimated value"
+"SVK","Slovak Republic","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,4.48,"E","Estimated value"
+"ESP","Spain","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,7.94,"E","Estimated value"
+"SWE","Sweden","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,0.73,"E","Estimated value"
+"CHE","Switzerland","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,1.22,"E","Estimated value"
+"TUR","Turkey","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,2.18,"E","Estimated value"
+"GBR","United Kingdom","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,0.88,"E","Estimated value"
+"USA","United States","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,0.82,"E","Estimated value"
+"BRA","Brazil","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,0.4,"E","Estimated value"
+"CHL","Chile","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,1.13,"E","Estimated value"
+"EST","Estonia","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,2.29,"E","Estimated value"
+"ISR","Israel","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,0.43,"E","Estimated value"
+"RUS","Russia","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,0.94,"E","Estimated value"
+"SVN","Slovenia","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,3.24,"E","Estimated value"
+"OECD","OECD - Total","JE_LTUR","Long-term unemployment rate","L","Value","HGH","High","PC","Percentage","0","Units",,,1.64,"E","Estimated value"
+"AUS","Australia","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,2.21,"E","Estimated value"
+"AUT","Austria","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,2.78,"E","Estimated value"
+"BEL","Belgium","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,8.07,"E","Estimated value"
+"CAN","Canada","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,1.9,"E","Estimated value"
+"CZE","Czech Republic","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,10.19,"E","Estimated value"
+"DNK","Denmark","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,2.7,"E","Estimated value"
+"FIN","Finland","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,4.28,"E","Estimated value"
+"FRA","France","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,6.99,"E","Estimated value"
+"DEU","Germany","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,5.18,"E","Estimated value"
+"GRC","Greece","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,21.69,"E","Estimated value"
+"HUN","Hungary","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,9.05,"E","Estimated value"
+"ISL","Iceland","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,0.88,"E","Estimated value"
+"IRL","Ireland","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,11.2,"E","Estimated value"
+"ITA","Italy","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,10.36,"E","Estimated value"
+"JPN","Japan","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,1.7,"E","Estimated value"
+"KOR","Korea","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,0.01,"E","Estimated value"
+"LUX","Luxembourg","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,2.82,"E","Estimated value"
+"MEX","Mexico","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,0.06,"E","Estimated value"
+"NLD","Netherlands","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,4.69,"E","Estimated value"
+"NZL","New Zealand","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,1.18,"E","Estimated value"
+"NOR","Norway","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,1,"E","Estimated value"
+"POL","Poland","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,6.72,"E","Estimated value"
+"PRT","Portugal","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,9.42,"E","Estimated value"
+"SVK","Slovak Republic","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,26.71,"E","Estimated value"
+"ESP","Spain","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,17.07,"E","Estimated value"
+"SWE","Sweden","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,3.48,"E","Estimated value"
+"CHE","Switzerland","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,4.25,"E","Estimated value"
+"TUR","Turkey","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,2.01,"E","Estimated value"
+"GBR","United Kingdom","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,2.87,"E","Estimated value"
+"USA","United States","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,3.37,"E","Estimated value"
+"BRA","Brazil","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,0.86,"E","Estimated value"
+"CHL","Chile","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,1.95,"E","Estimated value"
+"EST","Estonia","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,6.04,"E","Estimated value"
+"ISR","Israel","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,1.13,"E","Estimated value"
+"RUS","Russia","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,2.84,"E","Estimated value"
+"SVN","Slovenia","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,9.82,"E","Estimated value"
+"OECD","OECD - Total","JE_LTUR","Long-term unemployment rate","L","Value","LW","Low","PC","Percentage","0","Units",,,4.32,"E","Estimated value"
+"AUS","Australia","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,51148,,
+"AUT","Austria","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,45988,,
+"BEL","Belgium","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,48093,,
+"CAN","Canada","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,48164,,
+"CZE","Czech Republic","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,21185,,
+"DNK","Denmark","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,49589,,
+"FIN","Finland","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,40742,,
+"FRA","France","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,40828,,
+"DEU","Germany","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,43872,,
+"GRC","Greece","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,26436,,
+"HUN","Hungary","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,21399,,
+"ISL","Iceland","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,56789,"E","Estimated value"
+"IRL","Ireland","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,53286,,
+"ITA","Italy","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,34744,,
+"JPN","Japan","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,35672,,
+"KOR","Korea","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,36653,,
+"LUX","Luxembourg","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,61511,,
+"MEX","Mexico","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,12850,,
+"NLD","Netherlands","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,51003,,
+"NZL","New Zealand","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,45183,"E","Estimated value"
+"NOR","Norway","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,51718,,
+"POL","Poland","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,23649,,
+"PRT","Portugal","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,23977,,
+"SVK","Slovak Republic","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,22151,,
+"ESP","Spain","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,36013,,
+"SWE","Sweden","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,40994,,
+"CHE","Switzerland","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,57082,,
+"TUR","Turkey","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,15992,"E","Estimated value"
+"GBR","United Kingdom","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,41659,,
+"USA","United States","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,57139,,
+"BRA","Brazil","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,10229,"E","Estimated value"
+"CHL","Chile","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,21370,"E","Estimated value"
+"EST","Estonia","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,21020,,
+"ISR","Israel","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,29635,,
+"RUS","Russia","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,26977,"E","Estimated value"
+"SVN","Slovenia","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,33068,,
+"OECD","OECD - Total","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,40974,,
+"AUS","Australia","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,55540,,
+"AUT","Austria","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,49945,,
+"BEL","Belgium","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,48909,,
+"CAN","Canada","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,51188,,
+"CZE","Czech Republic","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,23864,,
+"DNK","Denmark","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,51733,,
+"FIN","Finland","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,45706,,
+"FRA","France","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,44219,,
+"DEU","Germany","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,46707,,
+"GRC","Greece","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,27577,,
+"HUN","Hungary","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,22787,,
+"ISL","Iceland","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,63638,"E","Estimated value"
+"IRL","Ireland","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,57988,,
+"ITA","Italy","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,36828,,
+"JPN","Japan","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,39327,,
+"KOR","Korea","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,37067,,
+"LUX","Luxembourg","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,63457,,
+"MEX","Mexico","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,13674,,
+"NLD","Netherlands","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,52740,,
+"NZL","New Zealand","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,47444,"E","Estimated value"
+"NOR","Norway","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,52744,,
+"POL","Poland","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,25794,,
+"PRT","Portugal","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,25460,,
+"SVK","Slovak Republic","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,23355,,
+"ESP","Spain","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,37215,,
+"SWE","Sweden","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,44623,,
+"CHE","Switzerland","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,64476,,
+"TUR","Turkey","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,15946,"E","Estimated value"
+"GBR","United Kingdom","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,43942,,
+"USA","United States","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,62150,,
+"BRA","Brazil","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,10968,"E","Estimated value"
+"CHL","Chile","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,23233,"E","Estimated value"
+"EST","Estonia","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,24079,,
+"ISR","Israel","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,33126,,
+"RUS","Russia","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,28970,"E","Estimated value"
+"SVN","Slovenia","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,34319,,
+"OECD","OECD - Total","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,44126,"E","Estimated value"
+"AUS","Australia","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,43661,,
+"AUT","Austria","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,38586,,
+"BEL","Belgium","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,45717,,
+"CAN","Canada","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,42067,,
+"CZE","Czech Republic","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,18720,,
+"DNK","Denmark","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,45430,,
+"FIN","Finland","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,35728,,
+"FRA","France","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,35893,,
+"DEU","Germany","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,38405,,
+"GRC","Greece","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,24878,,
+"HUN","Hungary","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,18591,,
+"ISL","Iceland","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,48669,"E","Estimated value"
+"IRL","Ireland","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,47629,,
+"ITA","Italy","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,31519,,
+"JPN","Japan","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,28060,,
+"KOR","Korea","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,23948,,
+"LUX","Luxembourg","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,54653,,
+"MEX","Mexico","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,12031,,
+"NLD","Netherlands","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,42090,,
+"NZL","New Zealand","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,41968,"E","Estimated value"
+"NOR","Norway","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,45261,,
+"POL","Poland","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,21489,,
+"PRT","Portugal","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,22445,,
+"SVK","Slovak Republic","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,18511,,
+"ESP","Spain","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,34320,,
+"SWE","Sweden","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,36372,,
+"CHE","Switzerland","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,51638,,
+"TUR","Turkey","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,14996,"E","Estimated value"
+"GBR","United Kingdom","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,34604,,
+"USA","United States","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,48448,,
+"BRA","Brazil","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,9380,"E","Estimated value"
+"CHL","Chile","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,18188,"E","Estimated value"
+"EST","Estonia","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,18210,,
+"ISR","Israel","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,24787,,
+"RUS","Russia","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,23942,"E","Estimated value"
+"SVN","Slovenia","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,30959,,
+"OECD","OECD - Total","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,34889,"E","Estimated value"
+"AUS","Australia","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,64862,"E","Estimated value"
+"AUT","Austria","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,58787,"E","Estimated value"
+"BEL","Belgium","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,58076,"E","Estimated value"
+"CAN","Canada","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,64808,"E","Estimated value"
+"CZE","Czech Republic","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,26709,"E","Estimated value"
+"DNK","Denmark","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,61377,"E","Estimated value"
+"FIN","Finland","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,49985,"E","Estimated value"
+"FRA","France","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,51505,"E","Estimated value"
+"DEU","Germany","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,56579,"E","Estimated value"
+"GRC","Greece","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,33376,"E","Estimated value"
+"HUN","Hungary","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,25509,"E","Estimated value"
+"ISL","Iceland","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,71218,"E","Estimated value"
+"IRL","Ireland","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,69345,"E","Estimated value"
+"ITA","Italy","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,41407,"E","Estimated value"
+"JPN","Japan","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,45805,"E","Estimated value"
+"KOR","Korea","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,44899,"E","Estimated value"
+"LUX","Luxembourg","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,78804,"E","Estimated value"
+"MEX","Mexico","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,15986,"E","Estimated value"
+"NLD","Netherlands","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,63952,"E","Estimated value"
+"NZL","New Zealand","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,57525,"E","Estimated value"
+"NOR","Norway","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,55158,"E","Estimated value"
+"POL","Poland","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,29972,"E","Estimated value"
+"PRT","Portugal","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,33199,"E","Estimated value"
+"SVK","Slovak Republic","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,25525,"E","Estimated value"
+"ESP","Spain","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,47546,"E","Estimated value"
+"SWE","Sweden","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,51713,"E","Estimated value"
+"CHE","Switzerland","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,71839,"E","Estimated value"
+"TUR","Turkey","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,21098,"E","Estimated value"
+"GBR","United Kingdom","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,51610,"E","Estimated value"
+"USA","United States","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,73220,"E","Estimated value"
+"BRA","Brazil","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,13032,"E","Estimated value"
+"CHL","Chile","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,26533,"E","Estimated value"
+"EST","Estonia","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,28390,"E","Estimated value"
+"ISR","Israel","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,41662,"E","Estimated value"
+"RUS","Russia","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,34132,"E","Estimated value"
+"SVN","Slovenia","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,40989,"E","Estimated value"
+"OECD","OECD - Total","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,52134,"E","Estimated value"
+"AUS","Australia","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,28796,"E","Estimated value"
+"AUT","Austria","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,27591,"E","Estimated value"
+"BEL","Belgium","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,33665,"E","Estimated value"
+"CAN","Canada","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,26796,"E","Estimated value"
+"CZE","Czech Republic","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,12265,"E","Estimated value"
+"DNK","Denmark","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,33544,"E","Estimated value"
+"FIN","Finland","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,27320,"E","Estimated value"
+"FRA","France","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,23653,"E","Estimated value"
+"DEU","Germany","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,26665,"E","Estimated value"
+"GRC","Greece","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,16986,"E","Estimated value"
+"HUN","Hungary","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,10733,"E","Estimated value"
+"ISL","Iceland","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,35252,"E","Estimated value"
+"IRL","Ireland","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,27901,"E","Estimated value"
+"ITA","Italy","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,24468,"E","Estimated value"
+"JPN","Japan","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,22462,"E","Estimated value"
+"KOR","Korea","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,15896,"E","Estimated value"
+"LUX","Luxembourg","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,36531,"E","Estimated value"
+"MEX","Mexico","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,6874,"E","Estimated value"
+"NLD","Netherlands","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,32878,"E","Estimated value"
+"NZL","New Zealand","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,27917,"E","Estimated value"
+"NOR","Norway","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,33916,"E","Estimated value"
+"POL","Poland","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,12102,"E","Estimated value"
+"PRT","Portugal","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,11816,"E","Estimated value"
+"SVK","Slovak Republic","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,11148,"E","Estimated value"
+"ESP","Spain","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,22761,"E","Estimated value"
+"SWE","Sweden","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,23766,"E","Estimated value"
+"CHE","Switzerland","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,35038,"E","Estimated value"
+"TUR","Turkey","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,6717,"E","Estimated value"
+"GBR","United Kingdom","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,22247,"E","Estimated value"
+"USA","United States","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,24328,"E","Estimated value"
+"BRA","Brazil","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,4667,"E","Estimated value"
+"CHL","Chile","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,9950,"E","Estimated value"
+"EST","Estonia","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,10759,"E","Estimated value"
+"ISR","Israel","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,13185,"E","Estimated value"
+"RUS","Russia","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,14551,"E","Estimated value"
+"SVN","Slovenia","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,18888,"E","Estimated value"
+"OECD","OECD - Total","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,21395,"E","Estimated value"
+"AUS","Australia","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,95,,
+"AUT","Austria","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,93,,
+"BEL","Belgium","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,88,,
+"CAN","Canada","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,94,,
+"CZE","Czech Republic","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,90,,
+"DNK","Denmark","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,96,,
+"FIN","Finland","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,94,,
+"FRA","France","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,89,,
+"DEU","Germany","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,92,,
+"GRC","Greece","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,83,,
+"HUN","Hungary","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,82,,
+"ISL","Iceland","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,96,,
+"IRL","Ireland","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,95,,
+"ITA","Italy","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,91,,
+"JPN","Japan","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,91,,
+"KOR","Korea","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,76,,
+"LUX","Luxembourg","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,93,,
+"MEX","Mexico","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,75,,
+"NLD","Netherlands","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,88,,
+"NZL","New Zealand","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,99,,
+"NOR","Norway","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,93,,
+"POL","Poland","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,86,,
+"PRT","Portugal","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,85,,
+"SVK","Slovak Republic","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,92,,
+"ESP","Spain","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,96,,
+"SWE","Sweden","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,92,,
+"CHE","Switzerland","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,93,,
+"TUR","Turkey","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,84,,
+"GBR","United Kingdom","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,93,,
+"USA","United States","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,90,,
+"BRA","Brazil","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,90,,
+"CHL","Chile","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,82,,
+"EST","Estonia","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,90,,
+"ISR","Israel","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,86,,
+"RUS","Russia","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,91,,
+"SVN","Slovenia","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,89,,
+"OECD","OECD - Total","SC_SNTWS","Quality of support network","L","Value","TOT","Total","PC","Percentage","0","Units",,,88,,
+"AUS","Australia","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,96,,
+"AUT","Austria","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,93,,
+"BEL","Belgium","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,89,,
+"CAN","Canada","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,94,,
+"CZE","Czech Republic","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,87,,
+"DNK","Denmark","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,96,,
+"FIN","Finland","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,92,,
+"FRA","France","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,90,,
+"DEU","Germany","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,93,,
+"GRC","Greece","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,82,,
+"HUN","Hungary","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,79,,
+"ISL","Iceland","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,95,,
+"IRL","Ireland","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,94,,
+"ITA","Italy","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,92,,
+"JPN","Japan","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,88,,
+"KOR","Korea","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,73,,
+"LUX","Luxembourg","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,94,,
+"MEX","Mexico","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,71,,
+"NLD","Netherlands","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,88,,
+"NZL","New Zealand","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,99,,
+"NOR","Norway","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,92,,
+"POL","Poland","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,84,,
+"PRT","Portugal","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,85,,
+"SVK","Slovak Republic","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,93,,
+"ESP","Spain","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,94,,
+"SWE","Sweden","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,93,,
+"CHE","Switzerland","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,93,,
+"TUR","Turkey","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,85,,
+"GBR","United Kingdom","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,93,,
+"USA","United States","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,88,,
+"BRA","Brazil","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,89,,
+"CHL","Chile","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,83,,
+"EST","Estonia","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,90,,
+"ISR","Israel","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,85,,
+"RUS","Russia","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,90,,
+"SVN","Slovenia","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,89,,
+"OECD","OECD - Total","SC_SNTWS","Quality of support network","L","Value","MN","Men","PC","Percentage","0","Units",,,87,,
+"AUS","Australia","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,94,,
+"AUT","Austria","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,92,,
+"BEL","Belgium","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,88,,
+"CAN","Canada","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,94,,
+"CZE","Czech Republic","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,93,,
+"DNK","Denmark","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,95,,
+"FIN","Finland","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,96,,
+"FRA","France","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,89,,
+"DEU","Germany","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,92,,
+"GRC","Greece","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,84,,
+"HUN","Hungary","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,85,,
+"ISL","Iceland","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,96,,
+"IRL","Ireland","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,96,,
+"ITA","Italy","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,89,,
+"JPN","Japan","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,94,,
+"KOR","Korea","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,79,,
+"LUX","Luxembourg","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,92,,
+"MEX","Mexico","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,79,,
+"NLD","Netherlands","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,88,,
+"NZL","New Zealand","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,99,,
+"NOR","Norway","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,94,,
+"POL","Poland","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,89,,
+"PRT","Portugal","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,85,,
+"SVK","Slovak Republic","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,92,,
+"ESP","Spain","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,97,,
+"SWE","Sweden","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,91,,
+"CHE","Switzerland","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,94,,
+"TUR","Turkey","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,82,,
+"GBR","United Kingdom","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,94,,
+"USA","United States","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,92,,
+"BRA","Brazil","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,91,,
+"CHL","Chile","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,82,,
+"EST","Estonia","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,90,,
+"ISR","Israel","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,87,,
+"RUS","Russia","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,91,,
+"SVN","Slovenia","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,89,,
+"OECD","OECD - Total","SC_SNTWS","Quality of support network","L","Value","WMN","Women","PC","Percentage","0","Units",,,89,,
+"AUS","Australia","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,96,,
+"AUT","Austria","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,95,,
+"BEL","Belgium","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,92,,
+"CAN","Canada","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,93,,
+"CZE","Czech Republic","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,97,,
+"DNK","Denmark","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,97,,
+"FIN","Finland","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,97,,
+"FRA","France","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,95,,
+"DEU","Germany","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,93,,
+"GRC","Greece","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,89,,
+"HUN","Hungary","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,84,,
+"ISL","Iceland","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,96,,
+"IRL","Ireland","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,95,,
+"ITA","Italy","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,94,,
+"JPN","Japan","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,88,,
+"KOR","Korea","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,83,,
+"LUX","Luxembourg","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,94,,
+"MEX","Mexico","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,78,,
+"NLD","Netherlands","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,90,,
+"NZL","New Zealand","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,99,,
+"NOR","Norway","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,95,,
+"POL","Poland","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,96,,
+"PRT","Portugal","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,96,,
+"SVK","Slovak Republic","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,95,,
+"SWE","Sweden","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,94,,
+"CHE","Switzerland","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,94,,
+"TUR","Turkey","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,93,,
+"GBR","United Kingdom","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,91,,
+"USA","United States","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,95,,
+"CHL","Chile","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,94,,
+"EST","Estonia","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,91,,
+"ISR","Israel","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,86,,
+"RUS","Russia","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,93,,
+"OECD","OECD - Total","SC_SNTWS","Quality of support network","L","Value","HGH","High","PC","Percentage","0","Units",,,89,"E","Estimated value"
+"FIN","Finland","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,91,,
+"FRA","France","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,77,,
+"GRC","Greece","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,74,,
+"HUN","Hungary","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,77,,
+"ISL","Iceland","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,96,,
+"ITA","Italy","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,90,,
+"JPN","Japan","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,86,,
+"KOR","Korea","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,58,,
+"LUX","Luxembourg","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,94,,
+"MEX","Mexico","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,78,,
+"NZL","New Zealand","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,99,,
+"NOR","Norway","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,89,,
+"POL","Poland","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,77,,
+"PRT","Portugal","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,80,,
+"ESP","Spain","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,93,,
+"TUR","Turkey","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,76,,
+"GBR","United Kingdom","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,93,,
+"BRA","Brazil","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,88,,
+"CHL","Chile","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,77,,
+"EST","Estonia","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,87,,
+"RUS","Russia","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,92,,
+"SVN","Slovenia","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,83,,
+"OECD","OECD - Total","SC_SNTWS","Quality of support network","L","Value","LW","Low","PC","Percentage","0","Units",,,80,,
